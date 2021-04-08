@@ -32,3 +32,23 @@ Acessar http://localhost:3001.
 Lembrar de instalar o WSL2 e Docker. Vejo o vídeo: [https://www.youtube.com/watch?v=usF0rYCcj-E](https://www.youtube.com/watch?v=usF0rYCcj-E) 
 
 Siga o guia rápido de instalação: [https://github.com/codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) 
+
+### Npm Install
+
+#### react-frontend
+- React.js: Tempo real com websockets e geolocalização[video]](https://www.youtube.com/watch?v=QyG6vI8iTEk)
+    npm install @material-ui/core --save
+    npm install google-maps --save
+    npm install @types/lodash --save
+    npm install notistack --save
+    npm install @material-ui/icons --save
+    npm install @nestjs/websockets --save
+    npm install @types/socket.io --save-dev
+    npm install @types/socket.io-client socket.io-client@2.4.0 --save
+
+#### nest-api
+- Desenvolvimento de APIs com Nest.js [video](https://www.youtube.com/watch?v=IPlLwBXb8G0)
+    npx @nestjs/cli new nest-api
+    npm install mongoose @nestjs/mongoose --save
+    npm install class-transformer class-validator --save
+    npm install swagger-ui-express @nestjs/swagger --save
